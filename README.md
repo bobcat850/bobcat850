@@ -2,7 +2,7 @@
 - 👀 I’m interested in web design and web apps,
 - 🌱 I’m currently learning react.js, 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @bobcat_weaver on Twitter,
+- 📫 How to reach me @bobcatbts on Twitter,
 
 <!---
 bobcat850/bobcat850 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
